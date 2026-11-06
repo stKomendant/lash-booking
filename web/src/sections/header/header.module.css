@@ -1,0 +1,43 @@
+.hero{
+  height: 60svh;
+  background-image: url("@/assets/images/hero-lashes.svg");
+  background-position: 60% 50%;
+  background-size: center;
+  background-repeat: no-repeat;
+}
+
+.logo{
+  display: flex;
+  justify-content:space-between;
+}
+
+.logo_test{
+font-size: 4ch;
+font-family: "Comic Sans MS", "Comic Sans", "Apple Chancery", "Chalkboard", "Segoe Script", cursive;;
+}
+
+.main_title{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.title{
+  font-size: 45px;
+  text-align: center;
+}
+
+.description{
+  font-size: 20px;
+  text-align: center;
+}
+
+.booking_button{
+  margin-top: 30px;
+  padding-inline: 70px;
+  padding-block: 10px;
+  background-color: rgb(36, 34, 34);
+  color: var(--color-bg);
+  border-radius: 10px;
+  border: none
+}
