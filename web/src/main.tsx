@@ -6,8 +6,8 @@ import "@fontsource/cormorant-garamond/500.css";
 import "@fontsource/cormorant-garamond/600.css";
 
 
-import '@/styles/global.css'
-import App from '@/App.tsx'
+import "@/styles/global.css"
+import App from '@/App'
 
 
 createRoot(document.getElementById('root')!).render(

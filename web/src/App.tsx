@@ -1,8 +1,10 @@
+import Header from "./sections/header/header";
+
 function App() {
 
   return (
     <>
-  <p>lashes</p>
+  <Header/>
     </>
   )
 }
