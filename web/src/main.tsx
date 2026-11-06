@@ -5,9 +5,8 @@ import "@fontsource-variable/inter";
 import "@fontsource/cormorant-garamond/500.css";
 import "@fontsource/cormorant-garamond/600.css";
 
-
 import "@/styles/global.css"
-import App from '@/App'
+import App from '@/app/App'
 
 
 createRoot(document.getElementById('root')!).render(
