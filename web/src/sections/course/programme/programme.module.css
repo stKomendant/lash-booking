@@ -1,0 +1,32 @@
+.programme_logo{
+    color: var(--color-muted);
+    padding-top: 15px;
+    text-transform: uppercase;
+    font-size:small
+}
+
+.programme{
+    font-size: 34px;
+}
+
+.list_programme{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 10px;
+}
+
+.item_programme{
+    padding: 10px;
+    border-bottom: 1px rgb(159, 148, 121) solid;
+}
+
+.programe_description{
+    margin: 0;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.programe_descriptiond{
+    color: rgb(153, 138, 120);
+}
