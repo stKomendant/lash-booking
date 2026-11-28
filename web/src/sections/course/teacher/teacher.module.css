@@ -1,0 +1,42 @@
+.teacher_container{
+    background-color:rgb(228, 214, 193);
+    padding-block: 15px;
+}
+
+.teacher_description{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.teacher{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.teacher_logo{
+    position: relative;
+    background-color: var(--color-bg);
+    display: flex;
+    width: 94px;
+    height: 94px;
+    border-radius: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 39px;
+    margin: 10px;
+}
+
+.your_teacher{
+    font-size: 30px;
+    margin: 7px 0px 20px;
+}
+
+.about_teacher{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(89, 89, 89);
+}
